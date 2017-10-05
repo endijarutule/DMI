@@ -1,0 +1,23 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/endijarutule/DMI
+    3  ls -l
+    4  #!/bin/sh
+    5  val=`expr 2 + 2`
+    6  echo "Total value : $val"
+    7  nano test1
+    8  chmod 744 shell_operators.sh
+    9  ls -lt
+   10  ./shell_operators.sh
+   11  nano shell_operators.sh
+   12  ./shell_operators.sh
+   13  nano shell_operators.sh
+   14  ./shell_operators.sh
+   15  nano shell_operators.sh
+   16  ./shell_operators.sh
+   17  nano
+   18  nano shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano shell_operators.sh
+   21  ./shell_operators.sh
+   22  nano shell_operators.sh
+   23  history > history_20171005.txt

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git config --global user.email rutule8@inbox.lv
+git add .
+git commit -m "20171005_16_10"
+git push origin master
