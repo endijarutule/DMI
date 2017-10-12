@@ -1,0 +1,25 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -l
+    4  cat shell_operators.sh 
+    5  cat Shell_Relational_Opertors 
+    6  ls -l
+    7  mv Shell_Relational_Opertors shell_relational_opertors.sh
+    8  ls -l
+    9  chmod 744 shell_relational_opertors.sh 
+   10  ls -l
+   11  ./shell_relational_opertors.sh 
+   12  nano shell_relational_operators_comments.sh
+   13  ls -l
+   14  shell_relational_operators_comments.sh
+   15  ./shell_relational_operators_comments.sh
+   16  chmod 744 shell_relational_operators.sh
+   17  ls -L
+   18  ls -l
+   19  chmod 744 shell_relational_operators_comments.sh 
+   20  ls -l
+   21  ./shell_relational_operators_comments.sh 
+   22  cat shell_relational_operators_comments.sh 
+   23  ./shell_relational_operators_comments.sh 
+   24  nano git-upload
+   25  history > history_20171012.txt
