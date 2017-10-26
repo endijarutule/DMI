@@ -1,0 +1,77 @@
+    1  VirtualBox --startvm XP
+    2  virtualbox 
+    3  exit
+    4  git clone https://github.com/endijarutule/DMI
+    5  ls -l
+    6  cd DMI/
+    7  nano if.sh
+    8  y
+    9  chmod 744 if.sh
+   10  ./if.sh
+   11  nano if.sh
+   12  ./if.sh -10
+   13  ./if.sh 10
+   14  nano if.sh
+   15  ./if.sh 10
+   16  ./if.sh -10
+   17  nano if.sh
+   18  ./if.sh 10
+   19  ./if.sh -10
+   20  nano if.sh
+   21  ./if.sh -10
+   22  ./if.sh 10
+   23  ./if.sh 0
+   24  nano if.sh
+   25  ./if.sh 10
+   26  ./if.sh -10
+   27  ./if.sh 0
+   28  nano if.sh
+   29  ./if.sh 0
+   30  nano sort.sh
+   31  chmod 744 sort.sh
+   32  ./sort.sh 1 2 3
+   33  nano sort.sh
+   34  ./sort.sh 1 2 3
+   35  nano sort.sh
+   36  ./sort.sh 1 2 3
+   37  ./sort.sh 1 3 2
+   38  ./sort.sh 2 3 1
+   39  ./sort.sh 2 1 3
+   40  ./sort.sh 3 2 1
+   41  ./sort.sh 3 1 2
+   42  nano sort.sh
+   43  ./sort.sh 1 2 3
+   44  1 3 2
+   45  ./sort.sh 1 3 2
+   46  ./sort.sh 2 1 3
+   47  ./sort.sh 2 3 1
+   48  ./sort.sh 3 2 1
+   49  ./sort.sh 3 1 2
+   50  nano sort.sh
+   51  ./sort.sh 3 2 1
+   52  nano sort.sh
+   53  ./sort.sh 3 2 1
+   54  ./sort.sh 1 2 3
+   55  ./sort.sh 1 3 2
+   56  ./sort.sh 3 2 1
+   57  ./sort.sh 3 1 2
+   58  ./sort.sh 2 1 3
+   59  ./sort.sh 2 3 1
+   60  nano sort.sh
+   61  .
+   62  nano array_loop.sh
+   63  chmod 744 array_loop.sh
+   64  ./array_loop.sh 4 8 10 
+   65  nano array_loop.sh
+   66  ./array_loop.sh 4 8 10 
+   67  nano array_loop.sh
+   68  nano array_loop.sh 4
+   69  ./array_loop.sh 4 
+   70  nano array_loop.sh 4
+   71  nano array_loop.sh
+   72  ./array_loop.sh 4 
+   73  ./array_loop.sh 4 5 6 52 85 41 5 5
+   74  ./array_loop.sh 4 5 6 52 85 4
+   75  ./array_loop.sh 4 5 6 52 85 48 2 56 41 74 1 54 4 5 4 5 
+   76  nano sort.sh
+   77  history > history_20171026.txt
