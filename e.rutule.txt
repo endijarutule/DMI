@@ -1,0 +1,24 @@
+pwd - parada direktoriju, kura strada
+whoami - kas es esmu
+ls - komanda tiek izmantota, lai zinatu, kadi faili atrodas direktorija, kura pašlaik atrodaties
+cd - nomaina direktoriju
+mkdir - komandu izmanto, lai izveidotu mapi vai direktoriju
+rmdir - komandu izmanto, lai izdzestu direktoriju
+man - lai uzzinatu, ko vairak par, kadu komandu un ka to izmantot.
+cat - komanda tiek izmantota, lai paraditu faila saturu, lia vieglak skatitu programmas
+echo - palidz mums parvietot dažus datus, parasti tekstu faila
+ls -a - parada apsleptos failus
+ls -l - izvada piekluves tiesibas
+ls -la - izvada piekluves tiesibas + sleptos failus
+cd .. - parvietoties uz augšejo direktoriju
+git init - izveidot jaunu lokalo repozitariju 
+git add - pievienot failus
+git config - konfiguret autora vardu
+git commit -m - saglabat izmainas
+git remote add origin <server> - pievienot attalo serveri
+git push origin master - sutit izmainas uz tavu attalo repozitariju
+nano - izveido failu lietojot nano editoru
+echo -e - rakstzimes,kuras ir atdalitas
+echo -n - jauna rinda ar atpakalatkapi
+echo * - printet visus failus/mapes lietojot echo komadu
+echo *.jpeg - printet specifiskus failus
