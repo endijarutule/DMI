@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/endijarutule/DMI
+    3  cd DMI
+    4  mkdir PYTHON
+    5  ls -l
+    6  PYTHON/
+    7  cd PYTHON/
+    8  nano hello.py
+    9  whereis python
+   10  nano hello.py
+   11  ./hello.py
+   12  chmod
+   13  chmod 744 hello.py
+   14  ./hello.py
+   15  nano hello.py
+   16  ./hello.py
+   17  nano hello.py
+   18  nano variables.py
+   19  ls -l
+   20  chmod variables.py
+   21  chmod 744 variables.py
+   22  ls -l
+   23  ./variables.py
+   24  nano
+   25  nano variables.py
+   26  ./variables.py
+   27  cd ..
+   28  history > history_20171109.txt
