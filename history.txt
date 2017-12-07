@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/endijarutule/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  LS -L
+    6  ls -l
+    7  pwd
+    8  idle
+    9  cd ..
+   10  history to history
+   11  history > history
+   12  history > history.txt
